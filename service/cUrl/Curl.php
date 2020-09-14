@@ -1,5 +1,5 @@
 <?php
-namespace utils\cUrl;
+namespace service\cUrl;
 
 use think\db\Query;
 use think\Exception;

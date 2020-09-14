@@ -1,5 +1,6 @@
 <?php
-namespace utils\Wechat;
+namespace service\Wechat;
+
 
 /**
  * error code 说明.

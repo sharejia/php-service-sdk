@@ -1,6 +1,6 @@
 <?php
 
-namespace utils\Wechat;
+namespace service\Wechat;
 
 use think\Cache;
 use think\Config;

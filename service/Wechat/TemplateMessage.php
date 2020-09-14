@@ -1,6 +1,6 @@
 <?php
 
-namespace utils\Wechat;
+namespace service\Wechat;
 
 use phpDocumentor\Reflection\DocBlock\Tags\Param;
 use utils\Curl;

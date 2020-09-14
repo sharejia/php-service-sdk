@@ -1,7 +1,7 @@
 <?php
 
 
-namespace utils\Random;
+namespace service\Random;
 
 /**
  * HTTP请求服务

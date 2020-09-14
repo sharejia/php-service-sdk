@@ -1,6 +1,6 @@
 <?php
 
-namespace service;
+namespace service\Date;
 
 use think\Exception;
 
